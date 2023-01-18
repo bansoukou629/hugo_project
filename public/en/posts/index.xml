@@ -14,11 +14,41 @@
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
     <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 17 Nov 2022 02:18:38 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2023 02:40:56 +0900</lastBuildDate>
     
         <atom:link href="http://example.org/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Second Post</title>
+        <link>http://example.org/en/posts/second-post/</link>
+        <pubDate>Thu, 19 Jan 2023 02:40:56 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Thu, 19 Jan 2023 02:40:56 +0900</atom:modified>
+        <guid>http://example.org/en/posts/second-post/</guid>
+        <description>赤ちゃんとか言ううんこ漏らすハゲwwww</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>First Post</title>
