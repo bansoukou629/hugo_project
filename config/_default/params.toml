@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "Code twenty seven"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+myname = "x6jy8q"
+# email = "zzossig@gmail.com"
+whoami = "旅行とドライブが好きなエンジニア"
+bioImageUrl = "/images/whoami/1451184440991.jpg"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+# location = "Seoul, Korea"
+# organization = "Hugo"
+# link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true
@@ -163,9 +163,9 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  # facebook = "http://example.org/"
+  # twitter = "http://example.org/"
+  # github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
