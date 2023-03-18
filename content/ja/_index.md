@@ -25,9 +25,10 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Code review at 27:00
     subtitle:
-      - The world’s fastest framework for building websites
+      - ２７時のコードレビュー
+      - 夜更かしがやめられないエンジニアの実践日記
     titleColor: 
     titleShadow: true
     titleFontSize: 44
